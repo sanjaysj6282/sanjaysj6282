@@ -13,7 +13,7 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 
 ### Connect with me:
 
-[<img align="left" alt="sanjaysj6282 | Twitter" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/twitter.png" />][twitter]
+[<img align="left" alt="sanjaysj6282 | Twitter" width="22px" src= "https://github.com/sanjaysj6282/sanjaysj6282/blob/main/twitter.png" />][twitter]
 [<img align="left" alt="sanjaysj6282 | LinkedIn" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/linkedin.png" />][linkedin]
 [<img align="left" alt="sanjaysj6282 | Instagram" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/instagram.jpg" />][instagram]
 
