@@ -9,8 +9,8 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 - 💬 Ask me about ML, Tech, College life, India...
 - 📫 How to reach me    LinkedIn - https://www.linkedin.com/in/sanjay-s-j-b173a6201/
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Dark programmer
-
+<!-- - ⚡ Fun fact: Dark programmer -->
+<!-- 
 ### Connect with me:
 
 [<img align="left" alt="sanjaysj6282 | Twitter" width="22px" src= "https://github.com/sanjaysj6282/sanjaysj6282/blob/main/twitter.png" />][twitter]
@@ -18,7 +18,7 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 [<img align="left" alt="sanjaysj6282 | Instagram" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/instagram.jpg" />][instagram]
 
 <br />
-<br />
+<br /> -->
 
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaysj6282&show_icons=true&theme=tokyonight)
 
