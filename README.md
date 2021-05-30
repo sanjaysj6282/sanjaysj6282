@@ -13,9 +13,9 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 
 ### Connect with me:
 
-[<img align="left" alt="sanjaysj6282 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="sanjaysj6282 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sanjaysj6282 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sanjaysj6282 | Twitter" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/twitter.png" />][twitter]
+[<img align="left" alt="sanjaysj6282 | LinkedIn" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/linkedin.png" />][linkedin]
+[<img align="left" alt="sanjaysj6282 | Instagram" width="22px" src="https://github.com/sanjaysj6282/sanjaysj6282/blob/main/instagram.jpg" />][instagram]
 
 <br />
 <br />
