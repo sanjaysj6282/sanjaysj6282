@@ -17,7 +17,6 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 [<img align="left" alt="sanjaysj6282 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="sanjaysj6282 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaysj6282&show_icons=true&theme=tokyonight)
 
