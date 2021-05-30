@@ -13,4 +13,4 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 
 ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaysj6282&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysj6282&layout=compact&theme=tokyonight&cache_seconds=86400)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysj6282&layout=compact&theme=tokyonight&cache_seconds=86400)
