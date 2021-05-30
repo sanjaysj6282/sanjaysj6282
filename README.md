@@ -8,7 +8,6 @@ I am Sanjay, a young innovative coding enthusiast who loves to code all day long
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about ML, Tech, College life, India...
 - 📫 How to reach me    LinkedIn - https://www.linkedin.com/in/sanjay-s-j-b173a6201/
--                       Twitter  - https://twitter.com/SanjayS84193427
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Dark programmer
 
